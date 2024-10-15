@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int twoLv = 0; // broi stotinki ot 2 lv
-    int oneLv = 0;
+    int oneLv = 3;
     int fiftySt = 0;
     int twentySt = 0;
     int tenSt = 0;
